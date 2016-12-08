@@ -8,5 +8,5 @@ You can load and save images, draw basic shapes, fill shapes with bucket/
 The team was made of
  * [zeng_d](https://github.com/Arcsz)
  * [bailly_j](https://github.com/baillyjamy)
- * albert_q
+ * [albert_q](https://github.com/quentinalbertone)
  * [planch_j](http://github.com/plean)
